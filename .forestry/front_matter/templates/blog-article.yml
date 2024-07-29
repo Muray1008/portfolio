@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Sat Naing
+  default: Eugene Rosario
   config:
     required: true
     options:
-    - Sat Naing
+    - Eugene Rosario
     source:
       type: simple
       section: 
