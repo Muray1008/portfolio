@@ -86,5 +86,10 @@ This is a really fun project, and one special part of this project is I had to f
 
 ## Project Links
 
+<<<<<<< HEAD
 - Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/ "https://terminal.satnaing.dev/")
 - Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio "https://github.com/satnaing/terminal-portfolio")
+=======
+- Website: [https://terminal.eugene.dev/](https://terminal.eugene.dev/ "https://terminal.eugene.dev/")
+- Repo: [https://github.com/eugene/terminal-portfolio](https://github.com/eugene/terminal-portfolio "https://github.com/eugene/terminal-portfolio")
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95

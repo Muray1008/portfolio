@@ -9,7 +9,11 @@ tags:
   - Blog
 author: Eugene Rosario
 type: article
+<<<<<<< HEAD
 coverImage: https://res.cloudinary.com/noezectz/image/upload/v1653050141/EugeneRosario/blog_at_cafe_ei1wf4.jpg
+=======
+coverImage: https://res.cloudinary.com/noezectz/image/upload/v1653050141/SatNaing/blog_at_cafe_ei1wf4.jpg
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
 coverImageAlt: Macbook at a cafe
 title: How Do I Develop My Portfolio Website & Blog
 description:
@@ -29,7 +33,7 @@ My experience about developing my first portfolio website and a blog using NextJ
 
 ## Motivation
 
-I've been always thinking about launching my own website with my custom domain name (**satnaing.dev**) since my college student life. But that never happened until this project. I've done several projects and works about web application development but I didn't make an effort to do this.
+I've been always thinking about launching my own website with my custom domain name (**eugene.dev**) since my college student life. But that never happened until this project. I've done several projects and works about web application development but I didn't make an effort to do this.
 
 So, "what about blog?" you may ask. Yeah, blog also has been in my project list for some time. I always wanted to make a blog project using some of the latest technologies. However, I've been busy with my works and other projects so that blog project has never been started.
 
@@ -63,11 +67,19 @@ The entire project is developed with SEO focus in mind. I've used proper meta ta
 
 > You can search this website on google by using keywords like 'sat naing dev'
 
+<<<<<<< HEAD
 ![searching satnaing.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/EugeneRosario/satnaing-on-google_asflq6.png "satnaing.dev is indexed")
 
 Moreover, this website will be displayed well when shared to social media due to properly used meta tags.
 
 ![satnaing.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/v1653106955/EugeneRosario/satnaing-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
+=======
+![searching eugene.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/SatNaing/eugene-on-google_asflq6.png "eugene.dev is indexed")
+
+Moreover, this website will be displayed well when shared to social media due to properly used meta tags.
+
+![eugene.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/v1653106955/SatNaing/eugene-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
 
 ### Dynamic Sitemap
 
@@ -89,7 +101,7 @@ All blog contents can be searched by search box. Moreover, contents can be filte
 
 This website got very good performance and lighthouse score thanks to proper development and best practices. Here's the lighthouse score for this website.
 
-![satnaing.dev Lighthouse score](https://user-images.githubusercontent.com/53733092/159957822-7082e459-11e9-4616-8f1e-49d0881f7cbb.png "satnaing.dev Lighthouse score")
+![eugene.dev Lighthouse score](https://user-images.githubusercontent.com/53733092/159957822-7082e459-11e9-4616-8f1e-49d0881f7cbb.png "eugene.dev Lighthouse score")
 
 ### Animations
 
@@ -105,6 +117,12 @@ And... last but not least, I would like to say 'thanks' to my friend [Swann Fevi
 
 ## Project Links
 
+<<<<<<< HEAD
 - Website: [https://satnaing.dev/](https://satnaing.dev/ "https://satnaing.dev/")
 - Blog: [https://satnaing.dev/blog](https://satnaing.dev/blog "https://satnaing.dev/blog")
 - Repo: [https://github.com/satnaing/my-portfolio](https://github.com/satnaing/my-portfolio "https://github.com/satnaing/my-portfolio")
+=======
+- Website: [https://eugene.dev/](https://eugene.dev/ "https://eugene.dev/")
+- Blog: [https://eugene.dev/blog](https://eugene.dev/blog "https://eugene.dev/blog")
+- Repo: [https://github.com/eugene/my-portfolio](https://github.com/eugene/my-portfolio "https://github.com/eugene/my-portfolio")
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95

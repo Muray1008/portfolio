@@ -77,4 +77,4 @@ The digital art in the hero section was illustrated by a friend of mine ([Swann 
 
 ## Author
 
-- [@satnaing](https://satnaing.dev)
+- [@eugene](https://eugene.dev)

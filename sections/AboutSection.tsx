@@ -9,7 +9,11 @@ import { useSection } from "context/section";
 import useOnScreen from "hooks/useOnScreen";
 import useScrollActive from "hooks/useScrollActive";
 
+<<<<<<< HEAD
 import eugene from "../public/eugene.png";
+=======
+import satNaing from "../public/eugene.webp";
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
 import AboutBgSvg from "@/components/AboutBgSvg";
 import EduGroup from "@/components/EduGroup";
 
@@ -169,6 +173,7 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
+<<<<<<< HEAD
               With 4 years of experience as a Blockchain Developer, I have
               designed and deployed smart contracts and decentralized
               applications, boosting user engagement by 40%, improving
@@ -178,6 +183,17 @@ const AboutSection: React.FC = () => {
 
             <div
               className="col-start-3 col-end-6 row-start-1 row-end-4 lg:row-start-2 lg:row-end-5 md:ml-8 place-content-end"
+=======
+              With 4+ years of comprehensive experience in web application
+              development, I have polished my skills in both frontend and
+              backend development. In addition to my hands-on experience in web
+              development, my education has also played a critical role in
+              providing a strong foundation for my career.
+            </p>
+
+            <div
+              className="col-start-3 col-end-6 row-start-1 row-end-6 lg:row-start-2 lg:row-end-7 md:ml-8 place-content-end"
+>>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
               ref={eduRef}
             >
               <p className="edu-bg my-4">Here is my educational background.</p>
