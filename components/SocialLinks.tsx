@@ -92,11 +92,7 @@ const socialLinks = [
   {
     id: 3,
     title: "Check Eugene Rosario on Dev.to",
-<<<<<<< HEAD
     link: "https://dev.to/satnaing",
-=======
-    link: "https://dev.to/eugene",
->>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -111,11 +107,7 @@ const socialLinks = [
   {
     id: 4,
     title: "Eugene Rosario's Profile on Facebook",
-<<<<<<< HEAD
     link: "https://www.facebook.com/satnaing.dev",
-=======
-    link: "https://www.facebook.com/eugene.dev",
->>>>>>> ce589e8d23741b9aaf43f145b72c3e95270d5e95
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
