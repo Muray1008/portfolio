@@ -10,7 +10,7 @@ import useScrollActive from "hooks/useScrollActive";
 
 import aiptp from "public/projects/aiptp.png";
 import koda from "public/projects/koda.png";
-import haruApi from "public/projects/haru-api.webp";
+import occam from "public/projects/occam.png";
 import astroPaper from "public/projects/astro-paper.webp";
 import nextBookstore from "public/projects/next-bookstore.webp";
 import shadcnAdmin from "public/projects/shadcn-admin.webp";
@@ -102,25 +102,32 @@ const projects = [
     codeUrl: "https://github.com/Muray1008/koda-nft-marketplace",
     bgColor: "bg-[#B4BEE0]",
   },
-  // {
-  //   title: "Haru Fashion",
-  //   type: "Frontend",
-  //   image: (
-  //     <Image
-  //       src={haruFashion}
-  //       sizes="100vw"
-  //       fill
-  //       alt="Haru Fashion App"
-  //       className="transition-transform duration-500 hover:scale-110 object-cover"
-  //     />
-  //   ),
-  //   desc: "An ecommerce web application where users can browse various products, add to wishlist, add to cart, and make purchase. Available in English and Burmese languages.",
-  //   tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
-  //   liveUrl: "https://haru-fashion.vercel.app/",
-  //   codeUrl: "https://github.com/satnaing/haru-fashion",
-  //   bgColor: "bg-[#A6CECE]",
-  //   githubApi: "https://api.github.com/repos/satnaing/haru-fashion",
-  // },
+  {
+    title: "OccamDAO",
+    type: "Frontend",
+    image: (
+      <Image
+        src={occam}
+        sizes="100vw"
+        fill
+        alt="OccamDAO"
+        className="transition-transform duration-500 hover:scale-110 object-cover"
+      />
+    ),
+    desc: "OccamDAO | Launchpad, DEX, DAO - Interchain",
+    tags: [
+      "ReactJS",
+      "TypeScript",
+      "TailwindCSS",
+      "ContextAPI",
+      "TeX",
+      "Solidity",
+      "hardhat",
+    ],
+    liveUrl: "https://occam.fi/",
+    codeUrl: "https://github.com/Muray1008/occam-dao",
+    bgColor: "bg-[#A6CECE]",
+  },
   // {
   //   title: "Haru API",
   //   type: "Backend",
