@@ -14,11 +14,11 @@ tags:
   - ContextAPI
   - TailwindCSS
 author: Eugene Rosario
-coverImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/SatNaing/haru-fashion-og_qotvvg.png
+coverImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/EugeneRosario/haru-fashion-og_qotvvg.png
 coverImageAlt: Haru Fashion website on a laptop and a mobile device
 coverImageWidth: "1200"
 coverImageHeight: "700"
-ogImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/SatNaing/haru-fashion-og_qotvvg.png
+ogImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/EugeneRosario/haru-fashion-og_qotvvg.png
 ogImageAlt: Haru Fashion
 type: article
 language: "Myanmar"

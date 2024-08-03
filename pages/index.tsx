@@ -21,7 +21,7 @@ type Props = {
 
 export const meta = {
   description:
-    "Eugene Rosario is a full-stack developer based in Yangon, Myanmar. He is passionate about writing codes and developing web applications to solve real-life challenges.",
+    "Eugene Rosario is a full-stack blockchain developer based in Yangon, Myanmar. He is passionate about writing codes and developing web applications to solve real-life challenges.",
   author: "Eugene Rosario",
   type: "website",
   ogImage: `${process.env.NEXT_PUBLIC_URL}/satnaing-dev-og-new.png`,
@@ -33,11 +33,11 @@ const Home: NextPage<Props> = ({ blogPosts }) => {
   return (
     <>
       <AppHead
-        title="Eugene Rosario - A Full-stack Developer"
+        title="Eugene Rosario - A Full-stack and Blockchain Developer"
         url={`${process.env.NEXT_PUBLIC_URL}`}
         meta={meta}
       />
-      <Loader>SatNaing.dev</Loader>
+      <Loader>eugene.dev</Loader>
       <div className="bg-bglight dark:bg-bgdark overflow-hidden">
         <div className="selection:bg-marrsgreen selection:text-bglight dark:selection:bg-carrigreen dark:selection:text-bgdark">
           <SkipToMain />

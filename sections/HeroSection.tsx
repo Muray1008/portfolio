@@ -90,7 +90,7 @@ const HeroSection: React.FC = () => {
         aria-hidden="true"
         className="bg-text absolute -top-36 rotate-12 text-gray-100 dark:text-[#1f2e3a] text-9xl scale-150 tracking-wide font-bold select-none pointer-events-none text-center z-0"
       >
-        PASSIONATE PROGRAMMER FREELANCER FULL-STACK DEVELOPER
+        PASSIONATE PROGRAMMER FREELANCER FULL-STACK BLOCKCHAIN DEVELOPER
       </span>
 
       <div className="image-animation z-10 select-none mt-0 xs:mt-6 sm:mt-14 lg:mt-0 px-0 mx-auto lg:p-0 lg:basis-1/3">
@@ -129,19 +129,20 @@ const HeroSection: React.FC = () => {
         </div>
         <div className="overflow-hidden">
           <span className="text-animation text-2xl md:text-3xl lg:text-5xl block md:my-3 text-marrsgreen dark:text-carrigreen font-medium">
-            A Full-stack Developer
+            A Full-Stack and Blockchain Developer
           </span>
         </div>
         <div className="mt-2 my-4 md:mb-8">
           <p className="mb-1">
-            I am a Full-Stack Developer with a passion for delivering
-            exceptional results.
-          </p>
-          <p>
-            With my expertise in React and NextJS on the frontend, and PHP,
-            CodeIgniter, NodeJS, and Express on the backend, I bring a unique
-            combination of technical skills and creative problem-solving to
-            every project I work on.
+            As a blockchain engineer, I focus on designing, developing, and
+            maintaining blockchain systems and applications. This includes
+            writing smart contracts, creating decentralized applications
+            (dApps), and ensuring the security and efficiency of blockchain
+            networks. I work with various blockchain technologies and tools to
+            implement and manage distributed ledgers, ensuring data integrity
+            and transparency. My role also involves staying updated with the
+            latest trends and advancements in blockchain technology to integrate
+            innovative solutions.
           </p>
         </div>
         <LinkButton href={`mailto:${process.env.NEXT_PUBLIC_EMAIL}`}>

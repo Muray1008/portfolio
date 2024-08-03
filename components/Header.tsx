@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 import gsap from "gsap";
+import Image from "next/image";
+import logo from "../public/logo.png";
 
 import useScrollListener from "hooks/useScrollListener";
 import { useSection } from "context/section";
@@ -94,8 +96,16 @@ const Header: React.FC = () => {
             href="/"
             className="text-xl sm:text-2xl md:hover:text-marrsgreen dark:md:hover:text-carrigreen focus-visible:outline-marrsgreen dark:focus-visible:outline-carrigreen"
           >
-            SatNaing
-            <span className="text-marrsgreen dark:text-carrigreen">.dev</span>
+            {/* eugene
+            <span className="text-marrsgreen dark:text-carrigreen">.dev</span> */}
+            <Image
+              src={logo}
+              width={80}
+              height={80}
+              priority
+              alt="Eugene Rosario profile picture"
+              className="rounded-md"
+            /> 
           </Link>
           <nav className="flex items-center">
             <div className="glassmorphism md:bg-transparent md:dark:bg-transparent md:backdrop-blur-none fixed md:static bottom-4 z-30 left-1/2 md:left-auto transform -translate-x-1/2 md:transform-none bg-bglight dark:bg-carddark dark:text-textlight w-11/12 rounded drop-shadow-lg md:drop-shadow-none">

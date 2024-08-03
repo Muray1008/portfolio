@@ -57,7 +57,7 @@ const socialLinks = [
   {
     id: 1,
     title: "Eugene Rosario's Github Profile",
-    link: "https://github.com/satnaing",
+    link: "https://github.com/Muray1008",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"

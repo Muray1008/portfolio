@@ -10,7 +10,7 @@ tags:
   - TypeScript
 author: Eugene Rosario
 type: article
-coverImage: https://res.cloudinary.com/noezectz/image/upload/v1654754125/SatNaing/terminal-screenshot_gu3kkc.png
+coverImage: https://res.cloudinary.com/noezectz/image/upload/v1654754125/EugeneRosario/terminal-screenshot_gu3kkc.png
 coverImageAlt: Screenshot of Terminal Portfolio Website
 title: How Do I Develop My Terminal Portfolio Website with React
 description:
